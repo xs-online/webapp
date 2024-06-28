@@ -37,6 +37,7 @@ export const common = {
 			}
 			return img;
 		},
+	
 		
 		getBtnStyle(){
 			let style = 'background:'+this.tempColor+';color:#ffffff;';
